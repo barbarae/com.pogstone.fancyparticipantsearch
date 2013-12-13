@@ -1,6 +1,3 @@
-
-application/x-httpd-php FancyParticipantListing.php 
-PHP script text
 <?php
 
 

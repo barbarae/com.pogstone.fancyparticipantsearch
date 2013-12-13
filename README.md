@@ -20,3 +20,6 @@ Installation Steps:
 1) Copy the PHP file "FancyParticipantListing.php" in your "civicrm_custom_code" folder, under a directory structure of "CRM/Contact/Form/Search/Custom" 
 
 2) Register the search at: http://myorganization.org/civicrm/admin/options/custom_search?reset=1&group=custom_search
+
+Author Info:
+This was created by Sarah Gladstone at Pogstone Inc.  http://pogstone.com

@@ -21,5 +21,9 @@ Installation Steps:
 
 2) Register the search at: http://myorganization.org/civicrm/admin/options/custom_search?reset=1&group=custom_search
 
+2a) Make sure to specify the Custom Search Path as "CRM_Contact_Form_Search_Custom_FancyParticipantListing" 
+
+2b) Suggested title is "Fancy Participant Search"
+
 Author Info:
 This was created by Sarah Gladstone at Pogstone Inc.  http://pogstone.com
